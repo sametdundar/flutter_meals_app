@@ -2,6 +2,13 @@
 
 Lezzetli yemek tariflerini keşfetmek için tasarlanmış modern bir Flutter uygulaması.
 
+<img width="945" height="2048" alt="image" src="https://github.com/user-attachments/assets/922bf5ea-05ef-422f-9891-ccff8bab77ea" />
+<img width="945" height="2048" alt="image" src="https://github.com/user-attachments/assets/7cd7b19c-67e5-471a-bd08-4d0ed92da51b" />
+<img width="945" height="2048" alt="image" src="https://github.com/user-attachments/assets/5b0d21e0-155a-4136-a422-b52e35168d56" />
+<img width="945" height="2048" alt="image" src="https://github.com/user-attachments/assets/d48a6f54-2be9-48bb-9057-cf897f13b037" />
+<img width="945" height="2048" alt="image" src="https://github.com/user-attachments/assets/93b9c373-282b-470a-a482-45183ea1daa2" />
+
+
 ## 📱 Özellikler
 
 - **Kategori Bazlı Tarifler**: İtalyan, Alman, Asya, Fransız ve daha fazla mutfak kategorisi
